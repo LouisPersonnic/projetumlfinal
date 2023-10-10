@@ -1,0 +1,7 @@
+/target/
+*.iml
+/.idea/
+
+### la syntaxe correcte pour simplifier le gitignore.
+### les 2 seuls trucs qui nous intéressent pour le git sont src et pom
+### le reste est utile juste pour intellij
